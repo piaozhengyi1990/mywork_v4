@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environment
+venv/
+
+# PyInstaller build artifacts
+dist/
+build/
+
+# 运行产物(输入PDF/输出Word/日志)
+data/
+output/
+out/
+logs/
+debug.log
